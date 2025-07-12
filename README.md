@@ -6,7 +6,7 @@ A clean, responsive front-end React project to showcase GitHub repositories usin
 
 ## 🧠 Why This Project?
 
-As a front-end developer with over 15 years of experience, I (Swet Prakash) wanted to create something that:
+As a front-end developer with over 1 years of experience, I (Swet Prakash) wanted to create something that:
 
 - Shows off projects in a professional way
 - Uses modern React + Tailwind stack
