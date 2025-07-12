@@ -115,7 +115,7 @@ npm run dev
 Open http://localhost:5173 in your browser!
 
 🧑‍💻 Author: Swet Prakash
-15+ years of dev experience | Front-End Developer | UI Expert
+Software Dev | Software Engineer  
 📍 GitHub Profile → swetp920
 
 💫 Like this project?
